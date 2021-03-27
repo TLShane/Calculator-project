@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator-Lawler</string>
+    <string name="channel_name">nameofchannel</string>
+    <string name="channel_description">this is the description for the channel notification</string>
+    <string name="notification">Notifications</string>
+    <string name="off">OFF</string>
+</resources>
